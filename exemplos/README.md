@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Desmitificando o Rapé ;)
 
 ## 📒 Descrição
-Este projeto serve para esclarecer os benefícios do rapé muito utilizado pelos nossos povos indígenas
+Este projeto serve para esclarecer os benefícios do rapé muito utilizado pelos nossos povos indígenas.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
