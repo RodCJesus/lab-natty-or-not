@@ -4,7 +4,7 @@
 Este projeto serve para esclarecer os benefícios do rapé muito utilizado pelos nossos povos indígenas.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
+ChatGPT                                                                                                                                       
 Monica(Google)
 
 ## 🧐 Processo de Criação
